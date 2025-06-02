@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/RacingScene.unity
+    guid: 4a07a00c22ea24d40be89fbf08feb71c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a906bbe2945ea77418b69f800752fa1c, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7d0f0ea7910edb9458058dbaf8eff507, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 491b7f605c9d58844955c1a794dd3a50, type: 2}
+  m_UseUCBPForAssetBundles: 0
